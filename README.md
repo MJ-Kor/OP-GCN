@@ -1,2 +1,2 @@
 # OP-GCN
-![overall.png](./overall.png)
+![overall](./overall.png)
