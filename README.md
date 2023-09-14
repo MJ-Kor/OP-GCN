@@ -7,3 +7,17 @@ Min Ju Kim<sup>†</sup>, Min Hyuk Kim<sup>†</sup>, Seok Bong Yoo<sup>∗</sup
 <br>
 
 ![overall](./overall.png)
+<!--
+# Data Preparation
+
+### Download datasets.
+#### There are 2 datasets to download:
+- NTU RGB+D 60 Skeleton
+- NTU RGB+D 120 Skeleton
+
+### NTU RGB+D 60 and 120
+1. Request dataset here: https://rose1.ntu.edu.sg/dataset/actionRecognition
+2. Download the skeleton-only datasets:
+- nturgbd_skeletons_s001_to_s017.zip (NTU RGB+D 60)
+- nturgbd_skeletons_s018_to_s032.zip (NTU RGB+D 120)
+-->
